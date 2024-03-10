@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>焦鑫善 | Beta Lab</title>
+    <link>http://localhost:1313/author/%E7%84%A6%E9%91%AB%E5%96%84/</link>
+      <atom:link href="http://localhost:1313/author/%E7%84%A6%E9%91%AB%E5%96%84/index.xml" rel="self" type="application/rss+xml" />
+    <description>焦鑫善</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-zh</language><lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/author/%E7%84%A6%E9%91%AB%E5%96%84/avatar_hu14e3fd089be0769fe1622e81513e7793_73551_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>焦鑫善</title>
+      <link>http://localhost:1313/author/%E7%84%A6%E9%91%AB%E5%96%84/</link>
+    </image>
+    
+    <item>
+      <title>Beta Lab于2024年3月10日正式成立</title>
+      <link>http://localhost:1313/post/2024-3-10-betalab/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-3-10-betalab/</guid>
+      <description>&lt;p&gt;Beta Lab于2024年3月10日正式成立，撒花~~&lt;/p&gt;
+&lt;!-- #Beta Lab是电子科技大学计算机工程与技术学院的 --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Comparing discriminating abilities of evaluation metrics in link prediction</title>
+      <link>http://localhost:1313/publication/preprint-comparing_discriminating_abilities/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprint-comparing_discriminating_abilities/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inconsistency of evaluation metrics in link prediction</title>
+      <link>http://localhost:1313/publication/preprint-inconsistency/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprint-inconsistency/</guid>
+      <description>&lt;!-- 
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>焦鑫善</title>
+      <link>http://localhost:1313/author/%E7%84%A6%E9%91%AB%E5%96%84/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/%E7%84%A6%E9%91%AB%E5%96%84/</guid>
+      <description>&lt;h2 id=&#34;焦鑫善主要专注于复杂网络的研究包括链路预测复杂中关键节点的识别以及高阶网络的研究&#34;&gt;焦鑫善主要专注于复杂网络的研究，包括链路预测、复杂中关键节点的识别，以及高阶网络的研究。&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Email:  &lt;a href=&#34;mailto:jiaoxinshan@std.uestc.edu.cn&#34;&gt;jiaoxinshan@std.uestc.edu.cn&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>周涛教授于 COMPLEX NETWORKS 2023 学术会议上进行汇报</title>
+      <link>http://localhost:1313/post/2023-11-30-franch/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2023-11-30-franch/</guid>
+      <description>&lt;p&gt;2023年11月30日，周涛教授在法国芒通举办的学术会议 PROGRAM AT A GLANCE - COMPLEX NETWORKS 2023 上进行了汇报，汇报题目为：Recent Debates in Link Prediction&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

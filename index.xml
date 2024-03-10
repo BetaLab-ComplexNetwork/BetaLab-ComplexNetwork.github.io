@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beta Lab</title>
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Beta Lab</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-zh</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu2acf1dcaa85cecf3bf6716b8ca40152f_18749_512x512_fill_lanczos_center_3.png</url>
+      <title>Beta Lab</title>
+      <link>http://localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title>Beta Lab于2024年3月10日正式成立</title>
+      <link>http://localhost:1313/post/2024-3-10-betalab/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-3-10-betalab/</guid>
+      <description>&lt;p&gt;Beta Lab于2024年3月10日正式成立，撒花~~&lt;/p&gt;
+&lt;!-- #Beta Lab是电子科技大学计算机工程与技术学院的 --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Comparing discriminating abilities of evaluation metrics in link prediction</title>
+      <link>http://localhost:1313/publication/preprint-comparing_discriminating_abilities/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprint-comparing_discriminating_abilities/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inconsistency of evaluation metrics in link prediction</title>
+      <link>http://localhost:1313/publication/preprint-inconsistency/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprint-inconsistency/</guid>
+      <description>&lt;!-- 
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>周涛教授于 COMPLEX NETWORKS 2023 学术会议上进行汇报</title>
+      <link>http://localhost:1313/post/2023-11-30-franch/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2023-11-30-franch/</guid>
+      <description>&lt;p&gt;2023年11月30日，周涛教授在法国芒通举办的学术会议 PROGRAM AT A GLANCE - COMPLEX NETWORKS 2023 上进行了汇报，汇报题目为：Recent Debates in Link Prediction&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>http://localhost:1313/people/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tour</title>
+      <link>http://localhost:1313/tour/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
