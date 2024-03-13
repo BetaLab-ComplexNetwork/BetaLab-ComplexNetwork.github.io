@@ -100,6 +100,9 @@
     <loc>http://localhost:1313/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/author/%E5%8D%9E%E4%BF%8A%E6%B5%A9/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/event/</loc>
     <changefreq>weekly</changefreq>
   </url>
