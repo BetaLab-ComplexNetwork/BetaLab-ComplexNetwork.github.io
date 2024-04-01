@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>卞俊浩 | Beta Lab</title>
+    <link>http://localhost:1313/author/%E5%8D%9E%E4%BF%8A%E6%B5%A9/</link>
+      <atom:link href="http://localhost:1313/author/%E5%8D%9E%E4%BF%8A%E6%B5%A9/index.xml" rel="self" type="application/rss+xml" />
+    <description>卞俊浩</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-zh</language>
+    <image>
+      <url>http://localhost:1313/author/%E5%8D%9E%E4%BF%8A%E6%B5%A9/avatar_huff84689ef7749cb6d2d04309cd953bbd_162995_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>卞俊浩</title>
+      <link>http://localhost:1313/author/%E5%8D%9E%E4%BF%8A%E6%B5%A9/</link>
+    </image>
+    
+    <item>
+      <title>卞俊浩</title>
+      <link>http://localhost:1313/author/%E5%8D%9E%E4%BF%8A%E6%B5%A9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/%E5%8D%9E%E4%BF%8A%E6%B5%A9/</guid>
+      <description>&lt;p&gt;卞俊浩主要在复杂网络和统计物理方面从事相关研究。他的研究领域包括高阶网络动力学、链路预测以及自组织临界的相关研究，旨在为生物和地球生态系统方面提供理论依据和工具。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Email:  &lt;a href=&#34;mailto:hao1043623457@gmail.com&#34;&gt;hao1043623457@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

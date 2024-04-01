@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>毕祎琳 | Beta Lab</title>
+    <link>http://localhost:1313/author/%E6%AF%95%E7%A5%8E%E7%90%B3/</link>
+      <atom:link href="http://localhost:1313/author/%E6%AF%95%E7%A5%8E%E7%90%B3/index.xml" rel="self" type="application/rss+xml" />
+    <description>毕祎琳</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-zh</language><lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/author/%E6%AF%95%E7%A5%8E%E7%90%B3/avatar_hu6c67c7e99a6904af5244e482e268d860_51125_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>毕祎琳</title>
+      <link>http://localhost:1313/author/%E6%AF%95%E7%A5%8E%E7%90%B3/</link>
+    </image>
+    
+    <item>
+      <title>Comparing discriminating abilities of evaluation metrics in link prediction</title>
+      <link>http://localhost:1313/publication/preprint-comparing_discriminating_abilities/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprint-comparing_discriminating_abilities/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inconsistency of evaluation metrics in link prediction</title>
+      <link>http://localhost:1313/publication/preprint-inconsistency/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprint-inconsistency/</guid>
+      <description>&lt;!-- 
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>毕祎琳</title>
+      <link>http://localhost:1313/author/%E6%AF%95%E7%A5%8E%E7%90%B3/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/%E6%AF%95%E7%A5%8E%E7%90%B3/</guid>
+      <description>&lt;h2 id=&#34;毕祎琳主要专注于复杂网络和统计学方面的研究她的研究涉及多个领域包括基于生物网络的关键基因识别链路预测中的基础性问题以及高阶网络结构的研究旨在通过研究为教育生物和经济等领域提供重要的见解和方法&#34;&gt;毕祎琳主要专注于复杂网络和统计学方面的研究。她的研究涉及多个领域，包括基于生物网络的关键基因识别、链路预测中的基础性问题，以及高阶网络结构的研究，旨在通过研究为教育、生物和经济等领域提供重要的见解和方法。&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Email:  &lt;a href=&#34;mailto:betayilin@gmail.com&#34;&gt;betayilin@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
